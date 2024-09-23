@@ -184,7 +184,7 @@
   /* END of Hero */
   /*START of Custom Button*/
   .inner-before {
-    @apply before:g7 before:absolute before:inset-0 before:opacity-0 before:transition-opacity before:duration-500 before:content-[''];
+    @apply before:g7 before:absolute before:inset-0 before:opacity-0 before:transition-opacity before:duration-500 before:content-[''] before:rounded-2xl;
   }
 
   .glow-before {
