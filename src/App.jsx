@@ -2,6 +2,7 @@ import React from 'react'
 import Header from './componets/Header'
 import Hero from './componets/Hero'
 import Features from './componets/Features'
+import Pricing from './componets/Pricing'
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Header />
       <Hero />
       <Features />
+      <Pricing/>
     </main>
   )
 }
