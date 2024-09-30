@@ -3,6 +3,7 @@ import Header from './componets/Header'
 import Hero from './componets/Hero'
 import Features from './componets/Features'
 import Pricing from './componets/Pricing'
+import Faq from './componets/Faq'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Hero />
       <Features />
       <Pricing/>
+      <Faq/>
     </main>
   )
 }
