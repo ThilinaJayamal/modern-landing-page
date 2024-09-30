@@ -1,7 +1,7 @@
 import React from 'react'
 import { Element } from 'react-scroll'
 import { details, features } from '../constant'
-import Button from './Button';
+import Button from '../componets/Button';
 
 function Features() {
     return (

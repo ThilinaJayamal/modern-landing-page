@@ -1,9 +1,9 @@
 import React from 'react'
-import Header from './componets/Header'
-import Hero from './componets/Hero'
-import Features from './componets/Features'
-import Pricing from './componets/Pricing'
-import Faq from './componets/Faq'
+import Header from './sections/Header'
+import Hero from './sections/Hero'
+import Features from './sections/Features'
+import Pricing from './sections/Pricing'
+import Faq from './sections/Faq'
 
 function App() {
   return (
